@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161049810817",
+    "project_id": "mineralogy",
+    "storage_bucket": "mineralogy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161049810817:android:408f1e89ffdf9a03e1fa80",
+        "android_client_info": {
+          "package_name": "com.geology_quiz_and_guide.mineralogy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161049810817-n7601jusu1abmmoqdmd5bqrdc1omun7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANih0JE1OsTS88L9mp3IZLgJSJzW1Rbqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161049810817-n7601jusu1abmmoqdmd5bqrdc1omun7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

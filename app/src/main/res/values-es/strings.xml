@@ -1,0 +1,322 @@
+<resources>
+    <string name="app_name">Mineralogía</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">©2023- Mineralogía - Quiz y Guía</string>
+    <string name="nav_header_subtitle">quizandguide@gmail.com</string>
+    <string name="nav_header_desc">Mineralogía - Quiz y Guía</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook">Facebook</string>
+    <string name="share">Compartir</string>
+
+    <string name="menu_guide">Guía</string>
+    <string name="menu_quiz">Quiz</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_store">Tienda</string>
+    <string name="menu_ranking">Clasificación</string>
+    <string name="menu_stats">Estadísticas</string>
+    <string name="menu_moreapps">Más apps y recursos</string>
+    <string name="menu_about">Sobre la app</string>
+    <string name="menu_contact">Contacto</string>
+    <string name="menu_rate">Valorar (1000 monedas)</string>
+    <string name="menu_credits">Créditos</string>
+
+    <string name="app_label">Mineralogía</string>
+    <string name="search_hint">Buscar mineral</string>
+    <string name="no_se_encuentra_el_mineral">No se encuentra el mineral buscado</string>
+
+    <string name="descMine">Foto del mineral</string>
+    <string name="tipo">Tipo</string>
+    <string name="clase">Clase</string>
+    <string name="grupo">Grupo</string>
+    <string name="formula">Formula</string>
+    <string name="sistema">Sistema</string>
+    <string name="ambientes">Ambientes</string>
+    <string name="habito">Hábito y agregados</string>
+    <string name="color">Color</string>
+    <string name="diafanidad">Diafanidad</string>
+    <string name="brillo">Brillo</string>
+    <string name="raya">Raya</string>
+    <string name="densidad">Densidad</string>
+    <string name="dureza">Dureza</string>
+    <string name="exfoliacion">Exfoliación</string>
+    <string name="otras_propiedades">Otras propiedades</string>
+    <string name="propiedades">PROPIEDADES FÍSICO-QUÍMICAS</string>
+    <string name="ambientes2">AMBIENTES</string>
+
+    <string name="no_coins">NO LE QUEDAN MONEDAS</string>
+    <string name="go_to_the_store_to_continue">Vea un vídeo para continuar usando la app.</string>
+    <string name="see_video">VER UN VÍDEO</string>
+
+    <string name="no_silicatos">No silicatos</string>
+    <string name="silicatos">Silicatos</string>
+    <string name="empezar">Empezar</string>
+    <string name="seleccione_un_grupo">Seleccione al menos un grupo</string>
+    <string name="seleccione_un_tipo_de_pregunta">Seleccione al menos un tipo de pregunta</string>
+    <string name="no_se_puede_examinar_de_un_solo_tipo">No puede examinarse de un solo tipo. Seleccione silicatos y no silicatos para generar preguntas de tipo.</string>
+
+    <string name="siguiente">Siguiente</string>
+    <string name="finalizar">Finalizar</string>
+
+
+    <string name="encabezado_pregunta_tipo">¿Cuál de los siguientes minerales pertenece al tipo\u0020</string>
+    <string name="encabezado_pregunta_clase">¿Cuál de los siguientes minerales pertenece a la clase\u0020</string>
+    <string name="encabezado_pregunta_formula">¿Cuál de los siguientes minerales tiene por fórmula\u0020</string>
+    <string name="encabezado_pregunta_sistema">¿Cuál de los siguientes minerales pertenece al sistema\u0020</string>
+    <string name="encabezado_pregunta_ambiente">¿Cuál de los siguientes minerales se puede encontrar en un ambiente\u0020</string>
+    <string name="encabezado_pregunta_habito">¿Cuál de los siguientes minerales aparece como\u0020</string>
+    <string name="encabezado_pregunta_color">¿Cuál de los siguientes minerales tiene generalmente un color\u0020</string>
+    <string name="sin_color">¿Cuál de los siguientes minerales aparece generalmente como incoloro?</string>
+    <string name="encabezado_pregunta_diafanidad">¿Cuál de los siguientes minerales es generalmente\u0020</string>
+    <string name="opacos">¿Cuál de los siguientes minerales es opaco?</string>
+    <string name="encabezado_pregunta_brillo">¿Cuál de los siguientes minerales tiene un brillo\u0020</string>
+    <string name="encabezado_pregunta_raya">¿Cuál de los siguientes minerales tiene una raya\u0020</string>
+    <string name="encabezado_pregunta_densidad">¿Cuál de los siguientes minerales tiene una densidad de\u0020</string>
+    <string name="encabezado_pregunta_dureza">¿Cuál de los siguientes minerales tiene una dureza de\u0020</string>
+    <string name="encabezado_pregunta_exfoliacion">¿Cuál de los siguientes minerales tiene exfoliación\u0020</string>
+    <string name="sin_exfoliacion">¿Cuál de los siguientes minerales no tiene exfoliación?</string>
+
+    <string name="moreapps">MÁS APPS</string>
+    <string name="forum">FOROS</string>
+
+    <string name="settings">AJUSTES</string>
+    <string name="theme">TEMA</string>
+    <string name="account">CUENTA</string>
+    <string name="nickname">Nombre de usuario</string>
+    <string name="anonymous">Anonymous user</string>
+    <string name="titulo_user">Nombre de usuario</string>
+    <string name="insert_user">Introduzca nombre de usuario</string>
+    <string name="darck">Noche</string>
+    <string name="light">Día</string>
+    <string name="green">Verde</string>
+    <string name="blue">Azul</string>
+    <string name="text">texto</string>
+    <string name="textSize">TAMAÑO DE LETRA</string>
+    <string name="verybig">+2</string>
+    <string name="big">+1</string>
+    <string name="medium">0</string>
+    <string name="small">-1</string>
+    <string name="verysmall">-2</string>
+    <string name="languaje">IDIOMA</string>
+    <string name="save_stats">Guardar estadísticas</string>
+    <string name="save_server">Enviar estadísticas</string>
+    <string name="what_is_this">¿Qué es esto?</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="what_settings">Seleccione la casilla para guardar datos estadísticos de las preguntas. Es necesario para mostrar estadísticas y gráficos.
+        Consume espacio en la memoria interna y memoria RAM al mostrar los gráficos.</string>
+    <string name="what_server">Seleccione la casilla para enviar al servidor estadísticas sobre el quiz. Es necesario para que el usuario obtenga una posición en la clasificación.
+        Consume datos.</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="contact">Contacto</string>
+    <string name="change_lang">CAMBIAR</string>
+    <string name="xygraph">X-Y</string>
+    <string name="bargraph">Barras</string>
+    <string name="grafico">GRÁFICO</string>
+    <string name="año">AÑO</string>
+    <string name="mes">MESES</string>
+    <string name="clases">CLASES</string>
+    <string name="minerales">MINERALES</string>
+    <string name="propiedades2">PROPIEDADES</string>
+
+    <string name="no_hay_datos">No hay datos</string>
+    <string name="no_hay_preguntas">No tiene almacenados datos. Conteste algunas preguntas y vuelva</string>
+    <string name="ad_consent">Selecciona política de anuncios</string>
+    <string name="personalizados">Has seleccionado: Anuncios personalizados</string>
+    <string name="no_personalizados">Has seleccionado: Anuncios no personalizados</string>
+    <string name="unknown">Consentimiento publicitario desconocido</string>
+    <string name="ad_free">Has seleccionado versión sin aununcios</string>
+    <string name="ver_anuncio">Vea un anuncio para continuar usando la app</string>
+    <string name="ver_anuncio_long">Vea un anuncio para continuar usando la app durante 30 minutos más.</string>
+    <string name="no_connection">No tiene conexión a Internet</string>
+    <string-array name="array_language">
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Español</item>
+        <item>Catalán</item>
+        <item>Ruso</item>
+        <item>Árabe</item>
+    </string-array>
+
+    <string-array name="array_class">
+        <item>Todos</item>
+        <item>Silicatos y no silicatos</item>
+        <item>Nativos</item>
+        <item>Sulfuros</item>
+        <item>Óxidos</item>
+        <item>Haluros</item>
+        <item>Carbonatos</item>
+        <item>Sulfatos</item>
+        <item>Fosfatos</item>
+        <item>Nesosilicatos</item>
+        <item>Sorosilicatos</item>
+        <item>Ciclosilicatos</item>
+        <item>Inosilicatos</item>
+        <item>Filosilicatos</item>
+        <item>Tectosilicatos</item>
+    </string-array>
+    <string-array name="array_all">
+        <item>Todos</item>
+    </string-array>
+    <string-array name="array_properties">
+        <item>Todas</item>
+        <item>Tipo</item>
+        <item>Clase</item>
+        <item>Fórmula</item>
+        <item>Sistema</item>
+        <item>Ambientes</item>
+        <item>Hábito</item>
+        <item>Color</item>
+        <item>Brillo</item>
+        <item>Raya</item>
+        <item>Diafanidad</item>
+        <item>Dureza</item>
+        <item>Densidad</item>
+        <item>Exfoliación</item>
+    </string-array>
+    <string-array name="array_all_properties">
+        <item>Todas</item>
+    </string-array>
+    <string-array name="array_silandnosil">
+        <item>Todos</item>
+        <item>No silicatos</item>
+        <item>Silicatos</item>
+    </string-array>
+    <string-array name="array_nativos">
+        <item>Todos</item>
+        <item>Oro</item>
+        <item>Azufre</item>
+        <item>Diamante</item>
+        <item>Grafito</item>
+    </string-array>
+    <string-array name="array_sulfuros">
+        <item>Todos</item>
+        <item>Galena</item>
+        <item>Esfalerita</item>
+        <item>Cinabrio</item>
+        <item>Pirita</item>
+        <item>Calcopirita</item>
+    </string-array>
+    <string-array name="array_oxidos">
+        <item>Todos</item>
+        <item>Corindón</item>
+        <item>Casiterita</item>
+        <item>Hematites</item>
+        <item>Rutilo</item>
+        <item>Cromita</item>
+        <item>Goethita</item>
+    </string-array>
+    <string-array name="array_haluros">
+        <item>Todos</item>
+        <item>Halita</item>
+        <item>Silvina</item>
+        <item>Fluorita</item>
+    </string-array>
+    <string-array name="array_carbonatos">
+        <item>Todos</item>
+        <item>Calcita</item>
+        <item>Aragonito</item>
+        <item>Magnesita</item>
+        <item>Dolomita</item>
+        <item>Malaquita</item>
+    </string-array>
+    <string-array name="array_sulfatos">
+        <item>Todos</item>
+        <item>Yeso</item>
+        <item>Anhidrita</item>
+        <item>Barita</item>
+        <item>Celestina</item>
+        <item>Glauberita</item>
+    </string-array>
+    <string-array name="array_fosfatos">
+        <item>Apatito</item>
+    </string-array>
+    <string-array name="array_nesosilicatos">
+        <item>Todos</item>
+        <item>Olivino</item>
+        <item>Fayalita</item>
+        <item>Forsterita</item>
+        <item>Almandino</item>
+        <item>Grosularia</item>
+        <item>Sillimanita</item>
+        <item>Andalucita</item>
+        <item>Cianita</item>
+        <item>Topacio</item>
+    </string-array>
+    <string-array name="array_sorosilicatos">
+        <item>Epidota</item>
+    </string-array>
+    <string-array name="array_ciclosilicatos">
+        <item>Todos</item>
+        <item>Berilo</item>
+        <item>Turmalina</item>
+    </string-array>
+    <string-array name="array_inosilicatos">
+        <item>Todos</item>
+        <item>Augita</item>
+        <item>Hornblenda</item>
+    </string-array>
+    <string-array name="array_filosilicatos">
+        <item>Todos</item>
+        <item>Moscovita</item>
+        <item>Biotita</item>
+        <item>Illita</item>
+        <item>Montmorillonita</item>
+        <item>Caolinita</item>
+        <item>Talco</item>
+        <item>Sepiolita</item>
+    </string-array>
+    <string-array name="array_tectosilicatos">
+        <item>Todos</item>
+        <item>Cuarzo</item>
+        <item>Ópalo</item>
+        <item>Ortosa</item>
+        <item>Sanidina</item>
+        <item>Microclina</item>
+        <item>Albita</item>
+        <item>Anortita</item>
+        <item>Labradorita</item>
+        <item>Sodalita</item>
+        <item>Heulandita</item>
+    </string-array>
+    <string name="load_graph">CARGAR GRÁFICO</string>
+    <string name="loading_graph">Cargando gráfico. Puede tardar algunos segundos si su memoria RAM es pequeña y tiene muchas preguntas almacenadas.</string>
+    <string name="problem_loading_graph">Hubo un problema al cargar los datos</string>
+    <string name="desc_logo">Logo de la aplicación</string>
+    <string name="authors">AUTORES</string>
+    <string name="manuel1">Manuel Ignacio Muro Sabater</string>
+    <string name="manuel2">Desarrollador de la app</string>
+    <string name="manuel3">Graduado en geología, Universidad del País Vasco</string>
+    <string name="manuel4">Cuenta de desarrollador Android</string>
+    <string name="manuel5">Earth Science Stack Exchange</string>
+    <string name="manuel6">Facebook</string>
+    <string name="mariajose1">María José Mayayo Burillo</string>Responsable de contenido
+    <string name="mariajose2">Creadora del contenido</string>
+    <string name="mariajose3">Geóloga y gemóloga, profesora de cristalografía y mineralogía, Universidad de Zaragoza </string>
+    <string name="mariajose4">Currículum Vitae</string>
+    <string name="pictures">FOTOS</string>
+    <string name="fotos1">Baquero, M (1989): Gemas. Tratado de Gemologia. Ed. Aguaviva, Zaragoza.</string>
+    <string name="fotos2">Mayayo M.J. y Yuste A. (2016): Compendio didactico de Geología.</string>
+    <string name="translations">TRADUCCIONES</string>
+    <string name="arabian">ÁRABE</string>string>
+    <string name="russian">RUSO</string>string>
+    <string name="catalan">CATALÁN</string>
+    <string name="hamid1">Hamid Zaheer</string>
+    <string name="hamid2">Geólogo afgano</string>
+    <string name="hamid3">Facebook</string>
+    <string name="zhenia1">Eugenia Kositsina</string>
+    <string name="zhenia2">Estudiante del Grado en Matemática Aplicada en IT; Universidad Nacional de Moscú "MISIS"</string>
+    <string name="zhenia3">CV</string>
+    <string name="zhenia4">LinkedIn</string>
+    <string name="max1">Maxim Ivchin</string>
+    <string name="max2">Estudiante del Grado en Química de la Universidad de Zaragoza</string>
+    <string name="max3">CV</string>
+    <string name="max4">LinkedIn</string>
+    <string name="mercedes1">Maria Mercè Corbella Cordomi</string>
+    <string name="mercedes2">Profesora de mineralogía, Universidad Autónoma de Barcelona</string>
+    <string name="raquel1">Raquel Arasanz Pujol</string>
+    <string name="raquel2">Graduado en geología, Universidad Autónoma de Barcelona</string>
+    <string name="miquel1">Miquel Roquet Peña</string>
+    <string name="miquel2">Graduado en geología, Universidad Autónoma de Barcelona</string>
+</resources>

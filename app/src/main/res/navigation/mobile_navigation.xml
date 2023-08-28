@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_guide">
+
+    <fragment
+        android:id="@+id/nav_guide"
+        android:name="com.geology_quiz_and_guide.mineralogy.ui.guide.GuideFragment"
+        android:label="@string/menu_guide"
+        tools:layout="@layout/fragment_guide" />
+
+    <fragment
+        android:id="@+id/nav_quiz"
+        android:name="com.geology_quiz_and_guide.mineralogy.ui.quiz.QuizFragment"
+        android:label="@string/menu_quiz"
+        tools:layout="@layout/fragment_quiz" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.geology_quiz_and_guide.mineralogy.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_store"
+        android:name="com.geology_quiz_and_guide.mineralogy.ui.store.StoreFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_moreapps"
+        android:name="com.geology_quiz_and_guide.mineralogy.ui.moreapps.MoreappsFragment"
+        android:label="@string/menu_moreapps"
+        tools:layout="@layout/fragment_moreapps" />
+    <fragment
+        android:id="@+id/nav_credits"
+        android:name="com.geology_quiz_and_guide.mineralogy.ui.credits.CreditsFragment"
+        android:label="@string/menu_credits"
+        tools:layout="@layout/fragment_credits" />
+
+
+</navigation>

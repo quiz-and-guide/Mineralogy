@@ -1,0 +1,194 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Mineralogy" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/black</item>
+        <item name="colorSecondaryVariant">@color/black</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+    </style>
+    <style name="Theme.Mineralogy.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Minerals.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Minerals.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- Alert Dialogs -->
+    <!--Light-->
+    <style name="Dialog_light_phone" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Light</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/BodyTextAppearance.MaterialComponents.Body.Light</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStylePhone</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStylePhone</item>
+        <item name="android:background">@color/light_contrast</item>
+    </style>
+    <style name="MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Light" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BodyTextAppearance.MaterialComponents.Body.Light" parent="@style/TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--Darck-->
+    <style name="Dialog_darck_phone" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Darck</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/BodyTextAppearance.MaterialComponents.Body.Darck</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStylePhone</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStylePhone</item>
+        <item name="android:background">@color/darck_contrast</item>
+        <item name="android:color">?attr/colorSurface</item>
+    </style>
+    <style name="MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Darck" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BodyTextAppearance.MaterialComponents.Body.Darck" parent="@style/TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--Green-->
+    <style name="Dialog_green_phone" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Green</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/BodyTextAppearance.MaterialComponents.Body.Green</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStylePhone</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStylePhone</item>
+        <item name="android:background">@color/green_contrast</item>
+    </style>
+    <style name="MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Green" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BodyTextAppearance.MaterialComponents.Body.Green" parent="@style/TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--Blue-->
+    <style name="Dialog_blue_phone" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Blue</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/BodyTextAppearance.MaterialComponents.Body.Blue</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStylePhone</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStylePhone</item>
+        <item name="android:background">@color/blue_contrast</item>
+    </style>
+    <style name="MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Blue" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BodyTextAppearance.MaterialComponents.Body.Blue" parent="@style/TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--Light-->
+    <style name="Dialog_light_tablet" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Light.Tablet</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/BodyTextAppearance.MaterialComponents.Body.Light.Tablet</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyleTablet</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyleTablet</item>
+        <item name="android:background">@color/light_contrast</item>
+    </style>
+    <style name="MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Light.Tablet" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BodyTextAppearance.MaterialComponents.Body.Light.Tablet" parent="@style/TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--Darck-->
+    <style name="Dialog_darck_tablet" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Darck.Tablet</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/BodyTextAppearance.MaterialComponents.Body.Darck.Tablet</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyleTablet</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyleTablet</item>
+        <item name="android:background">@color/darck_contrast</item>
+    </style>
+    <style name="MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Darck.Tablet" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BodyTextAppearance.MaterialComponents.Body.Darck.Tablet" parent="@style/TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--Green-->
+    <style name="Dialog_green_tablet" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Green.Tablet</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/BodyTextAppearance.MaterialComponents.Body.Green.Tablet</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyleTablet</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyleTablet</item>
+        <item name="android:background">@color/green_contrast</item>
+    </style>
+    <style name="MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Green.Tablet" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BodyTextAppearance.MaterialComponents.Body.Green.Tablet" parent="@style/TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--Blue-->
+    <style name="Dialog_blue_tablet" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Blue.Tablet</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/BodyTextAppearance.MaterialComponents.Body.Blue.Tablet</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyleTablet</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyleTablet</item>
+        <item name="android:background">@color/blue_contrast</item>
+    </style>
+    <style name="MyTitle_MaterialAlertDialog.MaterialComponents.Title.Text.Blue.Tablet" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BodyTextAppearance.MaterialComponents.Body.Blue.Tablet" parent="@style/TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="PositiveButtonStylePhone" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#0000FF</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="NegativeButtonStylePhone" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#0000FF</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="PositiveButtonStyleTablet" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#0000FF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:height">100dp</item>
+    </style>
+    <style name="NegativeButtonStyleTablet" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#0000FF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:height">100dp</item>
+    </style>
+
+</resources>

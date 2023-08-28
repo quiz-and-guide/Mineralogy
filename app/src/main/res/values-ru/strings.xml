@@ -1,0 +1,315 @@
+<resources>
+    <string name="app_name">Минералогия</string>
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="nav_header_title">©2023 - Минералогия - Викторина и справочник</string>
+    <string name="nav_header_subtitle">quizandguide@gmail.com</string>
+    <string name="nav_header_desc">Минералогия - Викторина и справочник</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_guide">Справочник</string>
+    <string name="menu_quiz">Викторина</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_store">Магазин</string>
+    <string name="menu_ranking">Классификация</string>
+    <string name="menu_stats">Статистика</string>
+    <string name="menu_moreapps">Больше приложений и материалов</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_contact">Связь</string>
+    <string name="menu_rate">Оценить (1000 монет)</string>
+    <string name="menu_credits">Субтитры</string>
+
+    <string name="app_label">Минералогия</string>
+    <string name="search_hint">Найти минерал</string>
+    <string name="no_se_encuentra_el_mineral">Запрошенный минерал не найден</string>
+
+    <string name="descMine">Фото минерала</string>
+    <string name="tipo">Тип</string>
+    <string name="clase">Класс</string>
+    <string name="grupo">Группа</string>
+    <string name="formula">Формула</string>
+    <string name="sistema">Сингония</string>
+    <string name="ambientes">Породы</string>
+    <string name="habito">Габитус, облик и агрегаты</string>
+    <string name="color">Цвет</string>
+    <string name="diafanidad">Прозрачность</string>
+    <string name="brillo">Блеск</string>
+    <string name="raya">Цвет черты</string>
+    <string name="densidad">Плотность</string>
+    <string name="dureza">Твёрдость</string>
+    <string name="exfoliacion">Спайность</string>
+    <string name="otras_propiedades">Другие свойства</string>
+    <string name="propiedades">ФИЗИКО-ХИМИЧЕСКИЕ СВОЙСТВА</string>
+    <string name="ambientes2">ПОРОДЫ</string>
+
+    <string name="no_coins">У ВАС НЕ ОСТАЛОСЬ МОНЕТ</string>
+    <string name="go_to_the_store_to_continue">Посмотрите видео для возможности продолжать использовать приложение.</string>
+    <string name="see_video">ПОСМОТРЕТЬ ВИДЕО</string>
+    <string name="no_silicatos">Не силикаты</string>
+    <string name="silicatos">Силикаты</string>
+    <string name="empezar">Начать</string>
+    <string name="seleccione_un_grupo">Выберете как минимум одну группу</string>
+    <string name="seleccione_un_tipo_de_pregunta">Выберете как минимум один тип вопроса</string>
+    <string name="no_se_puede_examinar_de_un_solo_tipo">Нельзя создать викторину из одного типа, выберете силикаты и не силикаты для создания вопросов.</string>
+
+    <string name="siguiente">Продолжить</string>
+    <string name="finalizar">Закончить</string>
+
+
+    <string name="encabezado_pregunta_tipo">Какой из следующих минералов принадлежит к типу\u0020</string>
+    <string name="encabezado_pregunta_clase">Какой из следующих минералов принадлежит к классу\u0020</string>
+    <string name="encabezado_pregunta_formula">Какой из следующих минералов имеет формулу\u0020</string>
+    <string name="encabezado_pregunta_sistema">Какой из следующих минералов принадлежит к сингонии\u0020</string>
+    <string name="encabezado_pregunta_ambiente">Какой из следующих минералов находится в породе\u0020</string>
+    <string name="encabezado_pregunta_habito">Какой из следующих минералов находится в агрегате\u0020</string>
+    <string name="encabezado_pregunta_color">Какой из следующих минералов имеет в общем цвет\u0020</string>
+    <string name="sin_color">Какой из следующих минералов в общем бесцветен?</string>
+    <string name="encabezado_pregunta_diafanidad">Какой из следующих минералов в общем прозрачен?\u0020</string>
+    <string name="opacos">Какой из следующих минералов непрозрачен?</string>
+    <string name="encabezado_pregunta_brillo">Какой из следующих минералов имеет блеск\u0020</string>
+    <string name="encabezado_pregunta_raya">Какой из следующих минералов имеет цвет черты\u0020</string>
+    <string name="encabezado_pregunta_densidad">Какой из следующих минералов имеет плотность\u0020</string>
+    <string name="encabezado_pregunta_dureza">Какой из следующих минералов имеет твёрдость\u0020</string>
+    <string name="encabezado_pregunta_exfoliacion">Какой из следующих минералов имеет спайность\u0020</string>
+    <string name="sin_exfoliacion">Какой из следующих минералов не имеет спайности?</string>
+
+    <string name="moreapps">ЕЩЕ ПРИЛОЖЕНИЯ</string>
+    <string name="forum">ФОРУМЫ</string>
+
+    <string name="settings">НАСТРОЙКИ</string>
+    <string name="theme">ТЕМА</string>
+    <string name="account">АККАУНТ</string>
+    <string name="nickname">Имя пользователя</string>
+    <string name="anonymous">Анонимный пользователь</string>
+    <string name="titulo_user">Имя пользователя</string>
+    <string name="insert_user">Введите имя пользователя</string>
+    <string name="darck">Ночь</string>
+    <string name="light">День</string>
+    <string name="green">Зелёная</string>
+    <string name="blue">Синяя</string>
+    <string name="text">текст</string>
+    <string name="textSize">РАЗМЕР ШРИФТА</string>
+    <string name="verybig">+2</string>
+    <string name="big">+1</string>
+    <string name="medium">0</string>
+    <string name="small">-1</string>
+    <string name="verysmall">-2</string>
+    <string name="languaje">ЯЗЫК</string>
+    <string name="save_stats">Сохранить статистику</string>
+    <string name="save_server">Отправить статистику</string>
+    <string name="what_is_this">Что это?</string>
+    <string name="accept">Хорошо</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="what_settings">Установите флажок, чтобы сохранить статистические данные для вопросов. Он нужен для отображения статистики и графиков.
+        Используется место во внутренней и оперативной памяти при отображении графиков.</string>
+    <string name="what_server">Установите флажок, чтобы отправлять статистику о викторине на сервер. Это необходимо пользователю для получения позиции в рейтинге.
+        Может расходовать интернет-данные.</string>
+    <string name="privacy_policy">Политика приватности</string>
+    <string name="contact">Контакт</string>
+    <string name="xygraph">X-Y</string>
+    <string name="bargraph">Столбчатая диаграмма</string>
+    <string name="grafico">GRAPH</string>
+    <string name="año">YEAR</string>
+    <string name="mes">MONTH</string>
+    <string name="clases">CLASS</string>
+    <string name="minerales">MINERALS</string>
+    <string name="propiedades2">PROPERTIES</string>
+    <string name="change_lang">CHANGE</string>
+
+    <string name="no_hay_datos">There is no data</string>
+    <string name="no_hay_preguntas">There is no data to shown. Do some questions and return</string>
+    <string name="ad_consent">Выберите политику рекламы</string>
+    <string name="personalizados">Вы выбрали: Персонализированная реклама</string>
+    <string name="no_personalizados">Вы выбрали: Неперсонализированная реклама</string>
+    <string name="unknown">Неизвестное согласие на рекламу</string>
+    <string name="ad_free">Вы выбрали версию без рекламы</string>
+    <string name="ver_anuncio">Посмотрите рекламу, чтобы продолжить использование приложения</string>
+    <string name="ver_anuncio_long">Посмотрите рекламу, чтобы продолжить использование приложения еще на 30 минут</string>
+    <string name="no_connection">Нет подключения к Интернету</string>
+    <string-array name="array_language">
+        <item>английский</item>
+        <item>французский</item>
+        <item>испанский</item>
+        <item>каталонский</item>
+        <item>русский</item>
+        <item>арабский</item>
+    </string-array>
+    <string-array name="array_class">
+        <item>Все</item>
+        <item>Силикаты и не силикаты</item>
+        <item>Самородки</item>
+        <item>Сульфиды</item>
+        <item>Окислы</item>
+        <item>Галогениды</item>
+        <item>Карбонаты</item>
+        <item>Сульфаты</item>
+        <item>Фосфаты</item>
+        <item>Ортосиликаты</item>
+        <item>Соросиликаты</item>
+        <item>Кольцевые силикаты</item>
+        <item>Ленточные силикаты</item>
+        <item>Филлосиликаты</item>
+        <item>Каркасные силикаты</item>
+    </string-array>
+    <string-array name="array_properties">
+        <item>Все</item>
+        <item>Тип</item>
+        <item>Класс</item>
+        <item>Формула</item>
+        <item>Сингония</item>
+        <item>Породы</item>
+        <item>Габитус, облик и агрегаты</item>
+        <item>Цвет</item>
+        <item>Блеск</item>
+        <item>Цвет черты</item>
+        <item>Прозрачность</item>
+        <item>Твёрдость</item>
+        <item>Плотность</item>
+        <item>Спайность</item>
+    </string-array>
+    <string-array name="array_all_properties">
+        <item>Все</item>
+    </string-array>
+    <string-array name="array_silandnosil">
+        <item>Все</item>
+        <item>Не силикаты</item>
+        <item>Силикаты</item>
+    </string-array>
+    <string-array name="array_nativos">
+        <item>Все</item>
+        <item>Золото</item>
+        <item>Сера</item>
+        <item>Алмаз</item>
+        <item>Графит</item>
+    </string-array>
+    <string-array name="array_sulfuros">
+        <item>Все</item>
+        <item>Галенит</item>
+        <item>Сфалерит</item>
+        <item>Киноварь</item>
+        <item>Пирит</item>
+        <item>Халькопирит</item>
+    </string-array>
+    <string-array name="array_oxidos">
+        <item>Все</item>
+        <item>Корунд</item>
+        <item>Касситерит</item>
+        <item>Гематит</item>
+        <item>Рутил</item>
+        <item>Хромит</item>
+        <item>Гётит</item>
+    </string-array>
+    <string-array name="array_haluros">
+        <item>Все</item>
+        <item>Галит</item>
+        <item>Сильвин</item>
+        <item>Флюорит</item>
+    </string-array>
+    <string-array name="array_carbonatos">
+        <item>Все</item>
+        <item>Кальцит</item>
+        <item>Арагонит</item>
+        <item>Магнезит</item>
+        <item>Доломит</item>
+        <item>Малахит</item>
+    </string-array>
+    <string-array name="array_sulfatos">
+        <item>Все</item>
+        <item>Гипс</item>
+        <item>Ангидрит</item>
+        <item>Барит</item>
+        <item>Целестин</item>
+        <item>Глауберит</item>
+    </string-array>
+    <string-array name="array_fosfatos">
+        <item>Апатит</item>
+    </string-array>
+    <string-array name="array_nesosilicatos">
+        <item>Все</item>
+        <item>Оливин</item>
+        <item>Фаялит</item>
+        <item>Форстерит</item>
+        <item>Альмандин</item>
+        <item>Гроссуляр</item>
+        <item>Силлиманит</item>
+        <item>Андалузит</item>
+        <item>Кианит</item>
+        <item>Топаз</item>
+    </string-array>
+    <string-array name="array_sorosilicatos">
+        <item>Эпидот</item>
+    </string-array>
+    <string-array name="array_ciclosilicatos">
+        <item>Все</item>
+        <item>Берилл</item>
+        <item>Турмалин</item>
+    </string-array>
+    <string-array name="array_inosilicatos">
+        <item>Все</item>
+        <item>Авгит</item>
+        <item>Роговая обманка</item>
+    </string-array>
+    <string-array name="array_filosilicatos">
+        <item>Все</item>
+        <item>Мусковит</item>
+        <item>Биотит</item>
+        <item>Иллит</item>
+        <item>Монтмориллонит</item>
+        <item>Каолинит</item>
+        <item>Тальк</item>
+        <item>Сепиолит</item>
+    </string-array>
+    <string-array name="array_tectosilicatos">
+        <item>Все</item>
+        <item>Кварц</item>
+        <item>Опал</item>
+        <item>Ортоклаз</item>
+        <item>Санидин</item>
+        <item>Микроклин</item>
+        <item>Альбит</item>
+        <item>Анорит</item>
+        <item>Лабрадорит</item>
+        <item>Содалит</item>
+        <item>Гейландит</item>
+    </string-array>
+    <string name="load_graph">Загрузить график</string>
+    <string name="loading_graph">Загрузка графика. Может занять некоторое время если оперативная память вашего устройства небольшая или у вас много накопленных вопросов.</string>
+    <string name="problem_loading_graph">Произошла ошибка при загрузке данных</string>
+    <string name="desc_logo">Логотип приложения</string>
+    <string name="authors">АВТОРЫ</string>
+    <string name="manuel1">Manuel Ignacio Muro Sabater</string>
+    <string name="manuel2">Разработчик приложения</string>
+    <string name="manuel3">Бакалавр в геологии, Университет Страны Басков</string>
+    <string name="manuel4">Учетная запись разработчика Android</string>
+    <string name="manuel5">Earth Science Stack Exchange</string>
+    <string name="manuel6">Facebook</string>
+    <string name="mariajose1">María José Mayayo Burillo</string>
+    <string name="mariajose2">Разработчик и ответственная за контент</string>
+    <string name="mariajose3">Геолог и геммолог, профессор кристаллографии и минералогии Университета Сарагосы</string>
+    <string name="mariajose4">CV - Резюме</string>
+    <string name="pictures">PICTURES</string>
+    <string name="fotos1">Baquero, M (1989): Gemas. Tratado de Gemologia. Ed. Aguaviva, Zaragoza.</string>
+    <string name="fotos2">Mayayo M.J. y Yuste A. (2016): Compendio didactico de Geología.</string>
+    <string name="translations">TRANSLATIONS</string>
+    <string name="arabian">арабский</string>string>
+    <string name="russian">русский</string>string>
+    <string name="catalan">каталанский</string>
+    <string name="hamid1">Hamid Zaheer</string>
+    <string name="hamid2">Афганский геолог</string>
+    <string name="hamid3">Facebook</string>
+    <string name="zhenia1">Евгения Косицына</string>
+    <string name="zhenia2">Студент бакалавриата: Прикладная математика в IT; НИТУ "МИСиС"</string>
+    <string name="zhenia3">CV - Резюме</string>
+    <string name="zhenia4">LinkedIn</string>
+    <string name="max1">Максим Ивчин</string>
+    <string name="max2">Студент бакалавриата в Химии, Университет Сарагосы</string>
+    <string name="max3">CV - Резюме</string>
+    <string name="max4">LinkedIn</string>
+    <string name="mercedes1">Maria Mercè Corbella Cordomi</string>
+    <string name="mercedes2">Преподаватель минералогии, Автономный Университет Барселоны</string>
+    <string name="raquel1">Raquel Arasanz Pujol</string>
+    <string name="raquel2">Степень по геологии, Автономный Университет Барселоны</string>
+    <string name="miquel1">Miquel Roquet Peña</string>
+    <string name="miquel2">Степень по геологии, Автономный Университет Барселоны</string>
+</resources>
