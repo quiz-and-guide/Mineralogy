@@ -1,0 +1,326 @@
+<resources>
+    <string name="app_name">علم المعادن</string>
+    <string name="navigation_drawer_open">افتح درج التنقل</string>
+    <string name="navigation_drawer_close">أغلق درج التنقل</string>
+    <string name="nav_header_title">معدنية - جيولوجيا - اختبار©2023</string>
+    <string name="nav_header_subtitle">quizandguide@gmail.com</string>
+    <string name="nav_header_desc">علم المعادن - مسابقة ودليل</string>
+    <string name="action_settings">إعدادات</string>
+
+    <string name="menu_guide">مرشد</string>
+    <string name="menu_quiz">اختبار</string>
+    <string name="menu_settings">اختبار</string>
+    <string name="menu_store">محل</string>
+    <string name="menu_ranking">تصنيف</string>
+    <string name="menu_stats">إحصائيات</string>
+    <string name="menu_moreapps">تطبيقات أكثر</string>
+    <string name="menu_about">حول التطبيق</string>
+    <string name="menu_contact">اتصال</string>
+    <string name="menu_contribute">يُساهم</string>
+    <string name="menu_blog">مدونة</string>
+    <string name="menu_credits">الاعتمادات</string>
+
+    <string name="app_label">منرالوجی</string>
+    <string name="search_hint">البحث المعدنية</string>
+    <string name="no_se_encuentra_el_mineral">لم يتم العثور على المعدن</string>
+
+    <string name="descMine">صورة من المعدن</string>
+    <string name="tipo">يكتب</string>
+    <string name="clase">فصل</string>
+    <string name="grupo">مجموعة</string>
+    <string name="formula">معادلة</string>
+    <string name="sistema">نظام</string>
+    <string name="ambientes">البيئة</string>
+    <string name="habito">العادة والتجمعات</string>
+    <string name="color">لون</string>
+    <string name="diafanidad">الشفاء</string>
+    <string name="brillo">بريق</string>
+    <string name="raya">أثَر</string>
+    <string name="densidad">كثافة</string>
+    <string name="dureza">صلابة</string>
+    <string name="exfoliacion">انقسام</string>
+    <string name="otras_propiedades">خصائص أخرى</string>
+    <string name="propiedades">الخصائص الفيزيائية والكيميائية</string>
+    <string name="ambientes2">البيئة</string>
+
+    <string name="no_coins">ليس لديك عملات معدنية</string>
+    <string name="go_to_the_store_to_continue">شاهد مقطع فيديو لمواصلة استخدام التطبيق.</string>
+    <string name="see_video">شاهد مقطع فيديو</string>
+
+    <string name="no_silicatos">غیر سلیکات</string>
+    <string name="silicatos">سلیکات</string>
+    <string name="empezar">يبدأ</string>
+    <string name="seleccione_un_grupo">حدد مجموعة واحدة على الأقل.</string>
+    <string name="seleccione_un_tipo_de_pregunta">حدد نوعًا واحدًا على الأقل من الأسئلة.</string>
+    <string name="no_se_puede_examinar_de_un_solo_tipo">لا يمكنك فحص مجموعة فقط. حدد السيليكات وغير السيليكات لتوليد أسئلة الكتابة.</string>
+
+    <string name="siguiente">التالي</string>
+    <string name="finalizar">نهاية</string>
+
+    <string name="encabezado_pregunta_tipo">أي من المعادن التالية ينتمي إلى النوع\u0020</string>
+    <string name="encabezado_pregunta_clase">أي من المعادن التالية ينتمي إلى الفئة\u0020</string>
+    <string name="encabezado_pregunta_formula">أي من المعادن التالية لها صيغة\u0020</string>
+    <string name="encabezado_pregunta_sistema">أي من المعادن التالية ينتمي إلى النظام\u0020</string>
+    <string name="encabezado_pregunta_ambiente">يمكن العثور على أي من المعادن التالية في بيئة\u0020</string>
+    <string name="encabezado_pregunta_habito">تظهر أي من المعادن التالية على شكل\u0020</string>
+    <string name="encabezado_pregunta_color">أي من المعادن التالية له لون بشكل عام\u0020</string>
+    <string name="sin_color">أي من المعادن التالية يظهر بشكل عام على أنه عديم اللون؟</string>
+    <string name="encabezado_pregunta_diafanidad">أي من المعادن التالية بشكل عام\u0020</string>
+    <string name="opacos">أي من المعادن التالية معتم؟</string>
+    <string name="encabezado_pregunta_brillo">أي من المعادن التالية له بريق\u0020</string>
+    <string name="encabezado_pregunta_raya">أي من المعادن التالية له خط\u0020</string>
+    <string name="encabezado_pregunta_densidad">أي من المعادن التالية له كثافة\u0020</string>
+    <string name="encabezado_pregunta_dureza">أي من المعادن التالية له صلابة\u0020</string>
+    <string name="encabezado_pregunta_exfoliacion">أي من المعادن التالية به انقسام\u0020</string>
+    <string name="sin_exfoliacion">أي من المعادن التالية ليس به انقسام؟</string>
+
+    <string name="moreapps">المزيد من التطبيقات</string>
+    <string name="forum">منتديات</string>
+
+    <string name="settings">إعدادات</string>
+    <string name="theme">سمة</string>
+    <string name="account">حساب</string>
+    <string name="nickname">كنية</string>
+    <string name="anonymous">مستخدم مجهول</string>
+    <string name="titulo_user">كنية</string>
+    <string name="insert_user">أدخل اللقب</string>
+    <string name="darck">ليلة</string>
+    <string name="light">يوم</string>
+    <string name="green">أخضر</string>
+    <string name="blue">أزرق</string>
+    <string name="text">نص</string>
+    <string name="textSize">حجم الخط</string>
+    <string name="verybig">+2</string>
+    <string name="big">+1</string>
+    <string name="medium">0</string>
+    <string name="small">-1</string>
+    <string name="verysmall">-2</string>
+    <string name="languaje">لغة</string>
+    <string name="save_stats">احفظ الإحصائيات</string>
+    <string name="save_server">أرسل الإحصائيات</string>
+    <string name="what_is_this">ما هذا؟</string>
+    <string name="accept">يقبل</string>
+    <string name="cancel">يلغي</string>
+
+    <string name="what_settings">حدد المربع لحفظ بيانات أسئلة الإحصاء. من الضروري إظهار الإحصائيات والرسوم البيانية.
+        يأخذ مساحة في التخزين الداخلي وذاكرة RAM تظهر الرسوم البيانية.</string>
+    <string name="what_server">حدد المربع لإرسال الإحصائيات إلى الخادم. من الضروري الحصول على ترتيب.
+        استهلك داتوس.</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="contact">جهة اتصال</string>
+    <string name="no_hay_preguntas">لا توجد بيانات للعرض. قم ببعض الأسئلة وأعد</string>
+    <string name="xygraph">X-Y</string>
+    <string name="bargraph">الحانات</string>
+    <string name="grafico">رسم بياني</string>
+    <string name="año">سنة</string>
+    <string name="mes">شهر</string>
+    <string name="clases">فصل</string>
+    <string name="minerales">المعادن</string>
+    <string name="propiedades2">ملكيات</string>
+    <string name="change_lang">يتغير</string>
+
+    <string name="no_hay_datos">ليس هنالك معلومات</string>
+    <string name="ad_consent">اختر سياسة الإعلانات</string>
+    <string name="personalizados">لقد اخترت: إعلانات مخصصة</string>
+    <string name="no_personalizados">لقد اخترت: إعلانات غير شخصية</string>
+    <string name="unknown">موافقة الإعلان غير معروفة</string>
+    <string name="ad_free">لقد اخترت الإصدار بدون إعلانات</string>
+    <string name="ver_anuncio"> في استخدام التطبيق</string>
+    <string name="ver_anuncio_long">شاهد إعلانًا لتستمر في استخدام التطبيق لمدة 30 دقيقة إضافية</string>
+    <string name="no_connection">ليس لديك اتصال بالإنترنت</string>
+    <string-array name="array_language">
+        <item>إنجليزي</item>
+	    <item>فرنسي</item>
+        <item>الأسبانية</item>
+	    <item>كتالوني</item>
+	    <item>روسي</item>
+        <item>عربي</item>
+    </string-array>
+    <string-array name="array_class">
+        <item>All</item>
+        <item>Silicates and non silicates</item>
+        <item>Natives</item>
+        <item>Sulfides</item>
+        <item>Oxides</item>
+        <item>Halides</item>
+        <item>Carbonates</item>
+        <item>Sulfates</item>
+        <item>Phosphates</item>
+        <item>Nesosilicates</item>
+        <item>Sorosilicates</item>
+        <item>Cyclosilicates</item>
+        <item>Inosilicates</item>
+        <item>Phyllosilicates</item>
+        <item>Tectosilicates</item>
+    </string-array>
+    <string-array name="array_all">
+        <item>All</item>
+    </string-array>
+    <string-array name="array_properties">
+        <item>All</item>
+        <item>Type</item>
+        <item>Class</item>
+        <item>Fórmula</item>
+        <item>System</item>
+        <item>Environments</item>
+        <item>Habit</item>
+        <item>Color</item>
+        <item>Luster</item>
+        <item>Streak</item>
+        <item>Diaphaneity</item>
+        <item>Hardness</item>
+        <item>Density</item>
+        <item>Cleavage</item>
+    </string-array>
+    <string-array name="array_all_properties">
+        <item>All</item>
+    </string-array>
+    <string-array name="array_silandnosil">
+        <item>All</item>
+        <item>Non silicates</item>
+        <item>Silicates</item>
+    </string-array>
+    <string-array name="array_nativos">
+        <item>All</item>
+        <item>Gold</item>
+        <item>Sulfur</item>
+        <item>Diamond</item>
+        <item>Graphite</item>
+    </string-array>
+    <string-array name="array_sulfuros">
+        <item>All</item>
+        <item>Galena</item>
+        <item>Sphalerite</item>
+        <item>Cinnabar</item>
+        <item>Pyrite</item>
+        <item>Chalcopyrite</item>
+    </string-array>
+    <string-array name="array_oxidos">
+        <item>All</item>
+        <item>Corundum</item>
+        <item>Cassiterite</item>
+        <item>Hematite</item>
+        <item>Rutile</item>
+        <item>Chromite</item>
+        <item>Goethite</item>
+    </string-array>
+    <string-array name="array_haluros">
+        <item>All</item>
+        <item>Halite</item>
+        <item>Sylvite</item>
+        <item>Fluorite</item>
+    </string-array>
+    <string-array name="array_carbonatos">
+        <item>All</item>
+        <item>Calcite</item>
+        <item>Aragonite</item>
+        <item>Magnesite</item>
+        <item>Dolomite</item>
+        <item>Malachite</item>
+    </string-array>
+    <string-array name="array_sulfatos">
+        <item>All</item>
+        <item>Gypsum</item>
+        <item>Anhydrite</item>
+        <item>Baryte</item>
+        <item>Celestine</item>
+        <item>Glauberite</item>
+    </string-array>
+    <string-array name="array_fosfatos">
+        <item>Apatite</item>
+    </string-array>
+    <string-array name="array_nesosilicatos">
+        <item>All</item>
+        <item>Olivine</item>
+        <item>Fayalite</item>
+        <item>Forsterite</item>
+        <item>Almandine</item>
+        <item>Grossular</item>
+        <item>Sillimanite</item>
+        <item>Andalusite</item>
+        <item>Kyanite</item>
+        <item>Topaz</item>
+    </string-array>
+    <string-array name="array_sorosilicatos">
+        <item>Epidote</item>
+    </string-array>
+    <string-array name="array_ciclosilicatos">
+        <item>All</item>
+        <item>Beryl</item>
+        <item>Tourmaline</item>
+    </string-array>
+    <string-array name="array_inosilicatos">
+        <item>All</item>
+        <item>Augite</item>
+        <item>Hornblende</item>
+    </string-array>
+    <string-array name="array_filosilicatos">
+        <item>All</item>
+        <item>Muscovite</item>
+        <item>Biotite</item>
+        <item>Illite</item>
+        <item>Montmorillonite</item>
+        <item>Kaolinite</item>
+        <item>Talc</item>
+        <item>Sepiolite</item>
+    </string-array>
+    <string-array name="array_tectosilicatos">
+        <item>All</item>
+        <item>Quarz</item>
+        <item>Opal</item>
+        <item>Orthoclase</item>
+        <item>Sanidine</item>
+        <item>Microcline</item>
+        <item>Albite</item>
+        <item>Anorthite</item>
+        <item>Labradorite</item>
+        <item>Sodalite</item>
+        <item>Heulandite</item>
+    </string-array>
+
+
+    <string name="load_graph">تحميل الرسم البياني</string>
+    <string name="loading_graph">تحميل الرسم البياني. قد يستغرق الأمر بضع ثوان إذا كان لديك الكثير من الأسئلة المخزنة وجهاز قديم.</string>
+    <string name="problem_loading_graph">كانت هناك مشكلة في تحميل البيانات</string>
+    <string name="desc_logo">شعار التطبيق</string>
+    <string name="copyright">التطبيق مسجل تحت رخصة حقوق النشر. إذا كنت مهتمًا بترجمة قاعدة البيانات إلى لغتك أو استخدام البيانات لأغراض تعليمية، يرجى طلب الإذن قبل نشر المحتوى متوجهًا في الكتابة إلى mayayo@unizar.es (عالم الأحجار) و quizandguide@gmail.com (مبرمج ومؤلف مشارك).</string>
+    <string name="authors">المؤلفون</string>
+    <string name="manuel1">Manuel Ignacio Muro Sabater</string>
+    <string name="manuel2">مطور التطبيق</string>
+    <string name="manuel3">إجازة في الجيولوجيا ، جامعة إقليم الباسك</string>
+    <string name="manuel4">Android Developer Account</string>
+    <string name="manuel5">Whatsapp</string>
+    <string name="manuel6">Gmail</string>
+    <string name="mariajose1">María José Mayayo Burillo</string>
+    <string name="mariajose2">صانع المحتوى</string>
+    <string name="mariajose3">جيولوجي وعالم أحجار كريمة ، مدرس في علم البلورات والمعادن ، جامعة سرقسطة</string>
+    <string name="mariajose4">السيرة الذاتية</string>
+    <string name="pictures">الصور</string>
+    <string name="fotos1">Baquero, M (1989): Gemas. Tratado de Gemologia. Ed. Aguaviva, Zaragoza.</string>
+    <string name="fotos2">Mayayo M.J. y Yuste A. (2016): Compendio didactico de Geología.</string>
+    <string name="translations">الترجمات</string>
+    <string name="arabian">عربي</string>string>
+    <string name="russian">روسي</string>string>
+    <string name="catalan">كتالوني</string>string>
+    <string name="hamid1">حامد ظهیر</string>
+    <string name="hamid2">جيولوجي أفغاني</string>
+    <string name="hamid3">Facebook</string>
+    <string name="zhenia1">Евгения Косицына</string>
+    <string name="zhenia2">طالب في برنامج البكالوريوس في الرياضيات التطبيقية في معهد تكنولوجيا المعلومات؛ جامعة موسكو الوطنية "ميسيس</string>
+    <string name="zhenia3">السيرة الذاتية</string>
+    <string name="zhenia4">LinkedIn</string>
+    <string name="max1">Максим Ивчин</string>
+    <string name="max2">طالب في برنامج البكالوريوس في الكيمياء بجامعة زراگوسة</string>
+    <string name="max3">السيرة الذاتية</string>
+    <string name="max4">LinkedIn</string>
+
+    <string name="mercedes1">Maria Mercè Corbella Cordomi</string>
+    <string name="mercedes2">مدرس علم المعادن، الجامعة الذاتية الإدارية في برشلونة</string>
+    <string name="raquel1">Raquel Arasanz Pujol</string>
+    <string name="raquel2">خريج علم الجيولوجيا، الجامعة الذاتية الإدارية في برشلونة</string>
+    <string name="miquel1">Miquel Roquet Peña</string>
+    <string name="miquel2">خريج علم الجيولوجيا، الجامعة الذاتية الإدارية في برشلونة</string>
+
+    <string name="xtereo">"تطبيق لممارسة البلورات والإسقاطات الاستيريوغرافية. مؤلف التطبيق هو ماريا خوسيه مايايو، الذي هو أيضاً مؤلف هذا التطبيق."</string>
+    <string name="minescope">تم تطوير التطبيق بواسطة مانويل إغناسيو مورو ساباتر، مطور هذا التطبيق، لمشاهدة سلسلة من الصور للقطاعات الرقيقة كأنك تنظر من خلال الميكروسكوب.</string>
+</resources>
